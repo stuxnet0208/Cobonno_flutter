@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cobonno</string>
+    <string name="facebook_app_id">3008904299255918</string>
+    <string name="fb_login_protocol_scheme">fb3008904299255918</string>
+    <string name="facebook_client_token">c0f6f25efe0621fc9410a391b602c73b</string>
+</resources>

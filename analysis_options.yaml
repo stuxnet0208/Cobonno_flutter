@@ -1,0 +1,12 @@
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: false
+    depend_on_referenced_packages: false
+    deprecated_member_use: false
+    invalid_use_of_protected_member: false
+    invalid_use_of_visible_for_testing_member: false

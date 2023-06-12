@@ -1,0 +1,90 @@
+{
+    "project_info": {
+      "project_number": "564222187247",
+      "project_id": "cobonno-museum",
+      "storage_bucket": "cobonno-museum.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:564222187247:android:bc25c16bcac8aea6576d1a",
+          "android_client_info": {
+            "package_name": "com.ardgets.cobonno.dev"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "564222187247-ulplk734b5ideh8chkblmop13gk5f1od.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.ardgets.cobonno.dev",
+              "certificate_hash": "82020c97d5c6ecb4d5c022487f677ab3e0bfe066"
+            }
+          },
+          {
+            "client_id": "564222187247-qtiaf3u45pgckj4ajreeepnf1lmj4fvf.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCdl61wQcx3jqBrjII6k8vDQdI8FSzRHi0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "564222187247-qtiaf3u45pgckj4ajreeepnf1lmj4fvf.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "564222187247-fi2l6jjg02q33v8kvtm4fei81k2efod2.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.cobonno.cobonnoFlutt"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:564222187247:android:04d2883a86e13361576d1a",
+          "android_client_info": {
+            "package_name": "com.cobonno.app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "564222187247-qtiaf3u45pgckj4ajreeepnf1lmj4fvf.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCdl61wQcx3jqBrjII6k8vDQdI8FSzRHi0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "564222187247-qtiaf3u45pgckj4ajreeepnf1lmj4fvf.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "564222187247-fi2l6jjg02q33v8kvtm4fei81k2efod2.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.cobonno.cobonnoFlutt"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

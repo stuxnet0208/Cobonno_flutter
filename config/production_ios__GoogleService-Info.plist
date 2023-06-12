@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>612234204721-b7d02d6k6vg8sjg2anvu434ek8706qti.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.612234204721-b7d02d6k6vg8sjg2anvu434ek8706qti</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>612234204721-23ng918fv05lrlto0tjquafsmdqsm2uc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvG6pcQT0MEFdPJ72toGzfvaYZhvJhfew</string>
+	<key>GCM_SENDER_ID</key>
+	<string>612234204721</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cobonno</string>
+	<key>PROJECT_ID</key>
+	<string>cobonno-prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cobonno-prod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:612234204721:ios:ce520d2c2c1af784492710</string>
+</dict>
+</plist>

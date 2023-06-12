@@ -1,0 +1,90 @@
+{
+    "project_info": {
+      "project_number": "612234204721",
+      "project_id": "cobonno-prod",
+      "storage_bucket": "cobonno-prod.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:612234204721:android:de1d38b3f9d9bede492710",
+          "android_client_info": {
+            "package_name": "com.ardgets.cobonno"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "612234204721-23ng918fv05lrlto0tjquafsmdqsm2uc.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.ardgets.cobonno",
+              "certificate_hash": "82020c97d5c6ecb4d5c022487f677ab3e0bfe066"
+            }
+          },
+          {
+            "client_id": "612234204721-7k7fidqte15goerfr18hk2n6khs75k9h.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBTnMraylZe2yYI1KN3DDKB-_ajyS1nD8c"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "612234204721-7k7fidqte15goerfr18hk2n6khs75k9h.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "612234204721-6j4guv5re197f7i2m36gjv6qvl2pgppl.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.ardgets.cobonno"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:612234204721:android:4918670d725495dd492710",
+          "android_client_info": {
+            "package_name": "com.cobonno.app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "612234204721-7k7fidqte15goerfr18hk2n6khs75k9h.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBTnMraylZe2yYI1KN3DDKB-_ajyS1nD8c"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "612234204721-7k7fidqte15goerfr18hk2n6khs75k9h.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "612234204721-6j4guv5re197f7i2m36gjv6qvl2pgppl.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.ardgets.cobonno"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

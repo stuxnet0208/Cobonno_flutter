@@ -1,0 +1,5 @@
+"NSCameraUsageDescription" = "This setting makes this app available to capture image from camera. You can directly create your post with the image you are going to take. Otherwise select from the gallery. This app only use the camera data for creating contents.";
+
+"NSMicrophoneUsageDescription" = "This setting makes this app available to record audio and capture video from camera. You can directly create your post with the image you are going to take. Otherwise select from the gallery. This app only use the camera data for creating contents.";
+
+"NSPhotoLibraryUsageDescription" = "This setting makes this app available to　pick all images from gallery to create a post. This app only use the camera data for creating contents.";
